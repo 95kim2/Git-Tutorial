@@ -19,7 +19,7 @@
 
 ### Branch
 ##### branch 확인
-  - git branch (-v를 붙이면 +커밋 내역)
+> - git branch (-v를 붙이면 +커밋 내역)
   - git branch [--merged or --no-merged]
 ##### branch 생성
   - git branch [NAME]
