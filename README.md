@@ -1,8 +1,6 @@
- Git-Tutorial
-=============
 # Git Commands
 
-## 연결
+### 연결
 1. 클론 사용 (연결 및 다운로드)
 - git clone [GIT REPOSITORY ADDRESS]
 2. 곧바로 연결 (연결만)
@@ -11,15 +9,15 @@
 3. 연결 확인
 - git remote -v
 
-## 업로드
+### 업로드
 - git add . (또는 git add [FILE NAME])
 - git commit -m "메세지 입력"
 - git push
 
-## 다운로드
+### 다운로드
 - git pull
 
-## branch
+### branch
 1. branch 확인
 - git branch (-v를 붙이면 +커밋 내역)
 - git branch [--merged or --no-merged]
