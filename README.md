@@ -1,12 +1,12 @@
 # Git Commands
 
 ### 연결
-1. 클론 사용 (연결 및 다운로드)
+##### 클론 사용 (연결 및 다운로드)
   - git clone [GIT REPOSITORY ADDRESS]
-2. 곧바로 연결 (연결만)
+##### 곧바로 연결 (연결만)
   - git init
   - git remote add origin [GIT REPOSITORY ADDRESS]
-3. 연결 확인
+##### 연결 확인
   - git remote -v
 
 ### 업로드
@@ -17,15 +17,15 @@
 ### 다운로드
 - git pull
 
-### branch
-1. branch 확인
+### Branch
+##### branch 확인
   - git branch (-v를 붙이면 +커밋 내역)
   - git branch [--merged or --no-merged]
-2. branch 생성
+##### branch 생성
   - git branch [NAME]
-3. branch 삭제
+##### branch 삭제
   - git branch -d [NAME]
-4. branch 수정
+##### branch 수정
   - git branch -m [BEFORE_NAME] [AFTER_NAME]
-5. branch 연결
+##### branch 연결
   - git checkout [NAME]
