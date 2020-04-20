@@ -10,12 +10,12 @@
 >  - git remote -v
 
 ###   업로드
-- git add . (또는 git add [FILE NAME])
-- git commit -m "메세지 입력"
-- git push
+>- git add . (또는 git add [FILE NAME])
+>- git commit -m "메세지 입력"
+>- git push
 
 ###   다운로드
-- git pull
+>- git pull
 
 ###   Branch
 >##### branch 확인
