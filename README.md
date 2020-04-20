@@ -18,14 +18,14 @@
 >- git pull
 
 ###   Branch
->####branch 확인
+>#### branch 확인
 >  - git branch (-v를 붙이면 +커밋 내역)
 >  - git branch [--merged or --no-merged]
->####branch 생성
+>#### branch 생성
 >  - git branch [NAME]
->####branch 삭제
+>#### branch 삭제
 >  - git branch -d [NAME]
->####branch 수정
+>#### branch 수정
 >  - git branch -m [BEFORE_NAME] [AFTER_NAME]
->####branch 연결
+>#### branch 연결
 >  - git checkout [NAME]
