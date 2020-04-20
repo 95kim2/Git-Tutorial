@@ -25,7 +25,8 @@
 >  - git branch [NAME]
 >#### branch 삭제
 >  - git branch -d [NAME]
-> branch 수정
+>#### branch 수정
 >  - git branch -m [BEFORE_NAME] [AFTER_NAME]
-> branch 연결
+>#### branch 연결
 >  - git checkout [NAME]
+ 
