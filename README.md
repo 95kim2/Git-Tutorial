@@ -3,6 +3,7 @@
 ###   연결
 >##### 클론 사용 (연결 및 다운로드)
 >  - git clone [GIT REPOSITORY ADDRESS]
+>  - git clone -b [BRANCH NAME] [GIT REPOSITORY ADDRESS]
 >##### 곧바로 연결 (연결만)
 >  - git init
 >  - git remote add [-t master] origin [GIT REPOSITORY ADDRESS]
